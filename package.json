@@ -1,5 +1,5 @@
 {
-  "name": "darkmode-switcher",
+  "name": "@brtheo/darkmode-switcher",
   "version": "1.0.0",
   "description": "Simple dark mode switcher using css custom property",
   "main": "index.js",
