@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"module": "ES2015",
+		"target": "ES2020",
+		"moduleResolution": "node",
+		"lib": [
+			"DOM",
+		],
+		"outDir": "./",
+		"declaration": true,
+	},
+  "files": ["index.ts"]
+}
