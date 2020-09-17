@@ -6,7 +6,7 @@ Default applied mode is the one corresponding to the user's preference.
 ## Installation
 
 ```shell
-npm install darkmode-switcher --save
+npm install @brtheo/darkmode-switcher --save
 ```
 ## Usage
 
